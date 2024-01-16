@@ -4,7 +4,7 @@ Hi, I'm Dylan, an <a href="https://linkedin.com/in/DylanGalvan1">IT Professional
 
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dylanlxp/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](README.md)
+  - [osTicket: Post-Installation Configuration](osTicket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dylanlxp/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dylanlxp/configure-ad)
