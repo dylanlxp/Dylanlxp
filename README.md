@@ -5,7 +5,7 @@ Hi, I'm Dylan, an <a href="https://linkedin.com/in/DylanGalvan1">IT Professional
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/dylanlxp/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/dylanlxp/osTicket-post-installation)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/dylanlxp/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/dylanlxp/ticket-cycle)
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dylanlxp/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dylanlxp/azure-network-protocols)
