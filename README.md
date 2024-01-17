@@ -6,7 +6,7 @@ Hi, I'm Dylan, an <a href="https://linkedin.com/in/DylanGalvan1">IT Professional
   - [osTicket: Prerequisites and Installation](https://github.com/dylanlxp/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/dylanlxp/osTicket-post-installation)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/dylanlxp/ticket-cycle)
-- <b>Microsoft Azure</b>
+- <b>Microsoft Azure/Active-Directory</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/dylanlxp/microsoft-azure)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/dylanlxp/NSG-INN)
 
